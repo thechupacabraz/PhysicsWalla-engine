@@ -1,0 +1,19 @@
+﻿  test.cpp
+C:\Users\harsh\source\repos\Physics Walla Engine\External\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'test.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\harsh\source\repos\Physics Walla Engine\External\SFML\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\harsh\source\repos\Physics Walla Engine\Vector2D.hpp(94,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'test.cpp')
+  
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Physics Walla Engine.vcxproj -> C:\Users\harsh\source\repos\Physics Walla Engine\x64\Release\Physics Walla Engine.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\harsh\source\repos\Physics Walla Engine\test.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\harsh\source\repos\Physics Walla Engine\Vector2D.hpp(99,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'test.cpp')
+  
+  Physics Walla Engine.vcxproj -> C:\Users\harsh\source\repos\Physics Walla Engine\x64\Debug\Physics Walla Engine.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
